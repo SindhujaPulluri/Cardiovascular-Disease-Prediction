@@ -1,1 +1,1 @@
-# Mimic
+# Cardiovascular Disease Prediction
